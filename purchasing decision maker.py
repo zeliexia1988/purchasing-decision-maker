@@ -1,5 +1,4 @@
 # 安装必要库
-!pip install pandas openpyxl --quiet
 
 import pandas as pd
 from datetime import datetime
